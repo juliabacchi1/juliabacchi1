@@ -4,8 +4,6 @@
 
 Desenvolvedora com foco em interfaces acessíveis, escaláveis e conscientes. Tenho experiência com desenvolvimento web moderno, compondo soluções com performance, propósito e usabilidade.
 
-[![Portfólio](https://img.shields.io/badge/Deploy-Vercel-purple)](https://juliadev.vercel.app/)
-
 ---
 
 ### 🛠️ Stack principal
@@ -16,8 +14,6 @@ Desenvolvedora com foco em interfaces acessíveis, escaláveis e conscientes. Te
 - **Acessibilidade:** boas práticas de contraste, navegação por teclado, alt text
 - **SEO & Performance:** Lighthouse, metas sociais, imagens otimizadas
 - **Deploy:** Vercel, Netlify, GitHub Pages
-
----
 
 ### 📌 Últimos projetos
 
