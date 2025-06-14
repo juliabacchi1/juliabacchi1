@@ -9,15 +9,15 @@ Desenvolvedora com foco em interfaces acessíveis, escaláveis e conscientes. Te
 ### 🛠️ Stack principal
 
 - **Linguagens:** JavaScript (ES6+), TypeScript (em progresso)
-- **Frameworks:** React, Vite, React Router
+- **Frameworks:** React, Next.js, Vite, React Router
 - **Estilo:** Tailwind CSS, CSS-in-JS, Figma
-- **Acessibilidade:** boas práticas de contraste, navegação por teclado, alt text
+- **Acessibilidade:** Boas práticas de contraste, navegação por teclado, alt text
 - **SEO & Performance:** Lighthouse, metas sociais, imagens otimizadas
 - **Deploy:** Vercel, Netlify, GitHub Pages
 
 ### 📌 Últimos projetos
 
-- **[Portfólio profissional](https://juliadev.vercel.app)** — Site completo com blog técnico, design responsivo, SEO e notas acima de 90 no Lighthouse.
+- **[Portfólio profissional](https://juliabacchi.com)** — Site completo com blog técnico, design responsivo, SEO e notas acima de 90 no Lighthouse.
 - **[Bora!](bora-app-jet.vercel.app)** - Checklist de viagem. Organize sua mala com drag & drop e armazenamento local.
 - **[EcoTasks](https://ecotasks.vercel.app/)** — Desafios sustentáveis diários para reduzir CO₂, usando drag & drop e darkmode.
 - **[Portal Rick and Morty](portal-rickandmorty.vercel.app)** – App interativo com API, gamificação, filtros avançados e UI animada.
@@ -33,7 +33,7 @@ Desenvolvedora com foco em interfaces acessíveis, escaláveis e conscientes. Te
 ### 📫 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/juliabacchi/)
-- [Portfólio](https://juliadev.vercel.app)
+- [Portfólio](https://juliabacchi.com)
 - [E-mail](mailto:juliabacchi92@gmail.com)
 
 ---
