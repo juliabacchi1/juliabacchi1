@@ -8,12 +8,11 @@ Desenvolvedora com foco em interfaces acessíveis, escaláveis e conscientes. Te
 
 ### 🛠️ Stack principal
 
-- **Linguagens:** JavaScript (ES6+), TypeScript (em progresso)
-- **Frameworks:** React, Next.js, Vite, React Router
-- **Estilo:** Tailwind CSS, CSS-in-JS, Figma
+- **Front-end:** React, Next.js, TypeScript, Vite, TailwindCSS  
+- **CMS & Design:** Sanity CMS, Figma  
+- **Deploy & DevOps:** Vercel, Netlify, GitHub Pages
 - **Acessibilidade:** Boas práticas de contraste, navegação por teclado, alt text
 - **SEO & Performance:** Lighthouse, metas sociais, imagens otimizadas
-- **Deploy:** Vercel, Netlify, GitHub Pages
 
 ### 📌 Últimos projetos
 
