@@ -17,6 +17,7 @@ Desenvolvedora com foco em interfaces acessíveis, escaláveis e conscientes. Te
 
 ### 📌 Últimos projetos
 
+- **[Landing Page Oficial](https://landings-julia.vercel.app)** — Minha vitrine digital, onde mostro aos clientes o que posso entregar: sites funcionais, bonitos, estratégicos e prontos pra converter.
 - **[Portfólio profissional](https://juliabacchi.com)** — Site completo com blog técnico, design responsivo, SEO e notas acima de 90 no Lighthouse.
 - **[Bora!](bora-app-jet.vercel.app)** - Checklist de viagem. Organize sua mala com drag & drop e armazenamento local.
 - **[EcoTasks](https://ecotasks.vercel.app/)** — Desafios sustentáveis diários para reduzir CO₂, usando drag & drop e darkmode.
