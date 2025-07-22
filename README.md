@@ -8,11 +8,11 @@ Desenvolvedora com foco em interfaces acessíveis, escaláveis e conscientes. Te
 
 ### 🛠️ Stack principal
 
-- **Front-end:** React, Next.js, TypeScript, Vite, TailwindCSS  
-- **CMS & Design:** Sanity CMS, Figma  
+- **Front-end:** React (com hooks e context), Next.js (App Router), TypeScript, JavaScript (ES6+), Vite, Wordpress
+- **Estilização:** TailwindCSS, CSS Modules, Styled Components
+- **CMS & Design:** Sanity CMS, Figma (prototipagem, design tokens)
 - **Deploy & DevOps:** Vercel, Netlify, GitHub Pages
-- **Acessibilidade:** Boas práticas de contraste, navegação por teclado, alt text
-- **SEO & Performance:** Lighthouse, metas sociais, imagens otimizadas
+- **SEO & Performance:** Core Web Vitals, Lighthouse, metatags dinâmicas, otimização de imagens (next/image, formatos modernos)
 
 ### 📌 Últimos projetos
 
@@ -38,5 +38,5 @@ Desenvolvedora com foco em interfaces acessíveis, escaláveis e conscientes. Te
 
 ---
 
-> “Construo interfaces que acolhem. Código limpo, acessível e com impacto positivo.”  
-> — Julia Bacchi
+> “Vem comigo transformar padrões e repensar a maneira como nos conectamos online.”  
+> — Júlia Bacchi
