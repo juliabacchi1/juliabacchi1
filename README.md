@@ -1,10 +1,13 @@
 # Júlia Bacchi
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=0A242FF6&width=580&lines=Desenvolvedora+Front-end+com+foco+em+UX+e+performance;React+%7C+Next.js+%7C+TypeScript+%7C+TailwindCSS)](https://git.io/typing-svg)
 
-**Front-End Developer | UI/UX & Design Systems | Sustentabilidade Digital**
+<p align="left">
+  <a href="https://juliabacchi.com" target="_blank"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=next.js&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/juliabacchi"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:juliabacchi92@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-Desenvolvedora com foco em interfaces acessíveis, escaláveis e conscientes. Tenho experiência com desenvolvimento web moderno, compondo soluções com performance, propósito e usabilidade.
-
----
+Construindo interfaces acessíveis, escaláveis e conscientes. Soluções web pensadas para entregar performance, propósito e experiências que fazem sentido.
 
 ### 🛠️ Stack principal
 
@@ -30,13 +33,7 @@ Desenvolvedora com foco em interfaces acessíveis, escaláveis e conscientes. Te
 - Produção de conteúdo técnico com propósito
 - Comunidades inclusivas na tecnologia
 
-### 📫 Contato
-
-- [LinkedIn](https://www.linkedin.com/in/juliabacchi/)
-- [Portfólio](https://juliabacchi.com)
-- [E-mail](mailto:juliabacchi92@gmail.com)
-
----
+#
 
 > “Vem comigo transformar padrões e repensar a maneira como nos conectamos online.”  
 > — Júlia Bacchi
