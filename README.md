@@ -21,10 +21,10 @@ Construindo interfaces acessíveis, escaláveis e conscientes. Soluções web pe
 
 - **[Landing Page Oficial](https://landings-julia.vercel.app)** — Minha vitrine digital, onde mostro aos clientes o que posso entregar: sites funcionais, bonitos, estratégicos e prontos pra converter.
 - **[Portfólio profissional](https://juliabacchi.com)** — Site completo com blog técnico, design responsivo, SEO e notas acima de 90 no Lighthouse.
-- **[Bora!](bora-app-jet.vercel.app)** - Checklist de viagem. Organize sua mala com drag & drop e armazenamento local.
+- **[Bora!](https://bora-app-jet.vercel.app)** - Checklist de viagem. Organize sua mala com drag & drop e armazenamento local.
 - **[EcoTasks](https://ecotasks.vercel.app/)** — Desafios sustentáveis diários para reduzir CO₂, usando drag & drop e darkmode.
-- **[Portal Rick and Morty](portal-rickandmorty.vercel.app)** – App interativo com API, gamificação, filtros avançados e UI animada.
-- **[Recipes Generator (com IA)](recipes-generator-ai.netlify.app)** — gerador de receitas usando OpenAI API, foco em criatividade e usabilidade.
+- **[Portal Rick and Morty](https://portal-rickandmorty.vercel.app)** – App interativo com API, gamificação, filtros avançados e UI animada.
+- **[Recipes Generator (com IA)](https://recipes-generator-ai.netlify.app)** — Gerador de receitas usando OpenAI API, foco em criatividade e usabilidade.
 
 ### 🎯 Foco atual
 
