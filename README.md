@@ -1,39 +1,68 @@
-# Júlia Bacchi
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=0A242FF6&width=580&lines=Desenvolvedora+Front-end+com+foco+em+UX+e+performance;React+%7C+Next.js+%7C+TypeScript+%7C+TailwindCSS)](https://git.io/typing-svg)
+<h1 align="center">Júlia Bacchi</h1>
 
-<p align="left">
-  <a href="https://juliabacchi.com" target="_blank"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=next.js&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/juliabacchi"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:juliabacchi92@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<p align="center">
+  <a href="https://juliabacchi.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/juliabacchi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:juliabacchi92@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-Construindo interfaces acessíveis, escaláveis e conscientes. Soluções web pensadas para entregar performance, propósito e experiências que fazem sentido.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=0A242FF6&center=true&vCenter=true&width=600&lines=Front-end+Developer+focused+on+UX+and+performance;React+%7C+Next.js+%7C+TypeScript+%7C+TailwindCSS" alt="Typing SVG" />
+</p>
 
-### 🛠️ Stack principal
+Front-end developer from southern Brazil 🇧🇷 with a passion for performance, accessible design, and building meaningful digital experiences. Always learning, always sharing.
 
-- **Front-end:** React (com hooks e context), Next.js (App Router), TypeScript, JavaScript (ES6+), Vite, Wordpress
-- **Estilização:** TailwindCSS, CSS Modules, Styled Components
-- **CMS & Design:** Sanity CMS, Figma (prototipagem, design tokens)
-- **Deploy & DevOps:** Vercel, Netlify, GitHub Pages
-- **SEO & Performance:** Core Web Vitals, Lighthouse, metatags dinâmicas, otimização de imagens (next/image, formatos modernos)
+**About me**
 
-### 📌 Últimos projetos
+- 💼 Front-End Developer
 
-- **[Landing Page Oficial](https://landings-julia.vercel.app)** — Minha vitrine digital, onde mostro aos clientes o que posso entregar: sites funcionais, bonitos, estratégicos e prontos pra converter.
-- **[Portfólio profissional](https://juliabacchi.com)** — Site completo com blog técnico, design responsivo, SEO e notas acima de 90 no Lighthouse.
-- **[Bora!](https://bora-app-jet.vercel.app)** - Checklist de viagem. Organize sua mala com drag & drop e armazenamento local.
-- **[EcoTasks](https://ecotasks.vercel.app/)** — Desafios sustentáveis diários para reduzir CO₂, usando drag & drop e darkmode.
-- **[Portal Rick and Morty](https://portal-rickandmorty.vercel.app)** – App interativo com API, gamificação, filtros avançados e UI animada.
-- **[Recipes Generator (com IA)](https://recipes-generator-ai.netlify.app)** — Gerador de receitas usando OpenAI API, foco em criatividade e usabilidade.
+- ❤️ Passionate about tech, always exploring and turning ideas into real experiences
 
-### 🎯 Foco atual
+- 📈 Built modern websites and landing pages for real clients, focused on conversion and performance
 
-- Evolução com TypeScript e testes automatizados
-- Design Systems acessíveis e escaláveis
-- Produção de conteúdo técnico com propósito
-- Comunidades inclusivas na tecnologia
+- 💬 Ask me about anything [here](https://github.com/juliabacchi1/juliabacchi1/issues)
 
-#
+<br />
 
-> “Vem comigo transformar padrões e repensar a maneira como nos conectamos online.”  
+**Tech Stack**
+
+<code><img height="20" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" /></code>
+<code><img height="20" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" /></code>
+<code><img height="20" alt="React" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" /></code>
+<code><img height="20" alt="Next.js" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png" /></code>
+<code><img height="20" alt="TailwindCSS" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png" /></code>
+<code><img height="20" alt="Vite" src="https://raw.githubusercontent.com/github/explore/master/topics/vite/vite.png" /></code>
+<code><img height="20" alt="WordPress" src="https://raw.githubusercontent.com/github/explore/master/topics/wordpress/wordpress.png" /></code>
+<code><img height="20" alt="Figma" src="https://raw.githubusercontent.com/github/explore/master/topics/figma/figma.png" /></code>
+
+<br />
+
+**GitHub Stats**
+
+<p>
+  <a href="https://github.com/juliabacchi1">
+    <img src="https://github-readme-stats.vercel.app/api?username=juliabacchi1&show_icons=true&theme=buefy&hide_border=true" />
+  </a>
+  <a href="https://github.com/juliabacchi1">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliabacchi1&layout=compact&theme=buefy&hide_border=true" />
+  </a>
+</p>
+
+<br />
+
+**Top Repositories**
+
+<p>
+<a href="https://github.com/juliabacchi1/landing-julia"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliabacchi1&repo=landing-julia&theme=buefy" /></a>
+<a href="https://github.com/juliabacchi1/ecotasks"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliabacchi1&repo=ecotasks&theme=buefy" /></a>
+
+<br />
+
+<a href="https://github.com/juliabacchi1/juliadev-next"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliabacchi1&repo=juliadev-next&theme=buefy" /></a>
+<a href="https://github.com/juliabacchi1/bora-app"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliabacchi1&repo=bora-app&theme=buefy" /></a>
+</p>
+<br />
+
+
+> “Join me in rethinking how we connect online.”  
 > — Júlia Bacchi
