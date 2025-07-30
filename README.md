@@ -26,14 +26,14 @@ Front-end developer from southern Brazil 🇧🇷 with a passion for performance
 
 **Tech Stack**
 
-<code><img height="20" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" /></code>
-<code><img height="20" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" /></code>
-<code><img height="20" alt="React" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" /></code>
-<code><img height="20" alt="Next.js" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png" /></code>
-<code><img height="20" alt="TailwindCSS" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png" /></code>
-<code><img height="20" alt="Vite" src="https://raw.githubusercontent.com/github/explore/master/topics/vite/vite.png" /></code>
-<code><img height="20" alt="WordPress" src="https://raw.githubusercontent.com/github/explore/master/topics/wordpress/wordpress.png" /></code>
-<code><img height="20" alt="Figma" src="https://raw.githubusercontent.com/github/explore/master/topics/figma/figma.png" /></code>
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 <br />
 
