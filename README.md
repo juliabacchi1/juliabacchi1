@@ -37,27 +37,6 @@ Front-end developer from southern Brazil 🇧🇷 with a passion for performance
 
 <br />
 
-**GitHub Stats**
-
-<p>
-  <a href="https://github.com/juliabacchi1">
-    <img src="https://github-readme-stats.vercel.app/api?username=juliabacchi1&show_icons=true&theme=buefy&hide_border=true&cache_seconds=1" />
-  </a>
-  <a href="https://github.com/juliabacchi1">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliabacchi1&layout=compact&theme=buefy&hide_border=true&cache_seconds=1" />
-  </a>
-</p>
-
-<br />
-
-**Top Repositories**
-
-<p>
-<a href="https://github.com/juliabacchi1/landing-julia"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliabacchi1&repo=landing-julia&theme=buefy&cache_seconds=1" /></a>
-<a href="https://github.com/juliabacchi1/ecotasks"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliabacchi1&repo=ecotasks&theme=buefy&cache_seconds=1" /></a>
-
-<br />
-
 <a href="https://github.com/juliabacchi1/juliadev-next"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliabacchi1&repo=juliadev-next&theme=buefy&cache_seconds=1" /></a>
 <a href="https://github.com/juliabacchi1/bora-app"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliabacchi1&repo=bora-app&theme=buefy&cache_seconds=1" /></a>
 </p>
