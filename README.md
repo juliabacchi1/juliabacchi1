@@ -1,23 +1,24 @@
-# Project Title
+# Your Name
 
-## Badges
+## About Me
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=juliabacchi1&show_icons=true)
-![Language breakdown](https://github-readme-stats.vercel.app/api/top-langs/?username=juliabacchi1)
-![Contributions](https://github-readme-stats.vercel.app/api/wakatime?username=juliabacchi1)
+Some information about yourself...
 
-## Description
+## Tech Stack
 
-A brief description of your project, its purpose, and what it does. 
+Technologies you work with...
 
-## Installation
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliabacchi1&show_icons=true&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliabacchi1&layout=compact)
 
-Instructions on how to set up the project locally.
+## Featured Projects
 
-## Usage
+List of featured projects...
 
-Examples of how to use the project and its features.
+## Quote
 
-## License
+A favorite quote...
 
-License information here.
+---
+
+This README was updated on 2026-04-14 13:35:40 UTC.
