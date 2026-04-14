@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=0A242FF6&center=true&vCenter=true&width=600&lines=Front-end+Developer+focused+on+UX+and+performance;React+[...]
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=0A242FF6&center=true&vCenter=true&width=600&lines=Front-end+Developer+focused+on+UX+and+performance;React+Specialist;Performance+Enthusiast" />
 </p>
 
 Front-end developer from southern Brazil 🇧🇷 with a passion for performance, accessible design, and building meaningful digital experiences. Always learning, always sharing.
@@ -37,11 +37,12 @@ Front-end developer from southern Brazil 🇧🇷 with a passion for performance
 
 <br />
 
-<a href="https://github.com/juliabacchi1/juliadev-next"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliabacchi1&repo=juliadev-next&theme=buefy&cache_seconds=[...]" />
+<p align="center">
+<a href="https://github.com/juliabacchi1/juliadev-next"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliabacchi1&repo=juliadev-next&theme=buefy&cache_seconds=1" /></a>
 <a href="https://github.com/juliabacchi1/bora-app"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliabacchi1&repo=bora-app&theme=buefy&cache_seconds=1" /></a>
 </p>
-<br />
 
+<br />
 
 > "Join me in rethinking how we connect online."  
 > — Júlia Bacchi
